@@ -1,5 +1,9 @@
 # verdaccio-railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/verdaccio-or-just-updated-private-npm-re?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
+**Deploy on Railway:** [Verdaccio template](https://railway.com/deploy/verdaccio-or-just-updated-private-npm-re?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 Verdaccio 7 private npm registry packaged for Railway.
 
 - Closed by default: self-registration is off (`max_users: -1`) and every package needs a login.
